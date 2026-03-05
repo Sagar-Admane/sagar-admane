@@ -5,6 +5,47 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagar-admane" alt="sagar-admane" /></a> </p>
 
+## Full-Stack Software Engineer | Backend Specialist | Open to Opportunities
+
+### 💼 Professional Experience
+**Software Developer Intern @ ADP** (July 2025 - October 2025)
+- Architected Kafka + CDC event-driven system across 3+ microservices
+- Debugged 8+ production issues, reduced data loss from 2% to <0.1%
+- Optimized database queries: 2.5s → 600ms (76% improvement)
+- Integrated OpenAI API for intelligent task automation
+
+
+#### [AI Code Assistant](https://github.com/Sagar-Admane/AI-code-assistant-and-automation-helper)
+GitHub automation agent with LLM integration. Built with Node.js, PostgreSQL, and OpenAI API.
+- Event-driven architecture handling 20+ GitHub event types
+- Improved LLM command accuracy from 70% to 88%
+- Dashboard with real-time execution logs
+
+#### [StockSync](https://github.com/Sagar-Admane/StockSync2)
+Real-time stock analytics platform with AI forecasting.
+- Full-stack: React, Express.js, PostgreSQL, TensorFlow
+- Real-time updates via WebSocket
+- LSTM model with 75% prediction accuracy
+
+### 🛠️ Tech Stack
+**Languages:** Java, Python, JavaScript, TypeScript, SQL  
+**Backend:** Spring Boot, Express.js, Kafka, REST APIs, Microservices  
+**Frontend:** React.js, Socket.IO, WebSockets, Responsive Design  
+**Database:** PostgreSQL, MongoDB, Prisma ORM  
+**Tools:** Docker, Kubernetes, Git, AWS, CI/CD Pipelines  
+**AI/ML:** OpenAI API, TensorFlow, LSTM Models  
+
+### 📊 GitHub Stats
+![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar-admane&show_icons=true&theme=radical)
+
+### 📫 Let's Connect
+- **Email:** sagaradmane6@gmail.com
+- **LinkedIn:** [linkedin.com/in/sagaradmane](https://linkedin.com/in/sagaradmane)
+- **Portfolio:** [sagar-port.vercel.app](https://sagar-port.vercel.app)
+
+### 🎯 Open to Opportunities
+I'm actively seeking Backend or Full-Stack engineering roles. Interested in systems design, distributed systems, and building scalable applications
+
 - 🔭 I’m currently working on [AI Github Repo Assitant](http://github.com/Sagar-Admane/AI-code-assistant-and-automation-helper)
 
 - 🌱 I’m currently learning **Agentic AI, AI, ML**
